@@ -9,3 +9,10 @@
 - https://github.com/skills/hello-github-actions?utm_source=blog-episode-2&utm_medium=blog&utm_campaign=gfb-s3-2026
 - https://learn.github.com/skills#automate-workflows-with-github-actions?utm_source=blog-episode-2&utm_medium=blog&utm_campaign=gfb-s3-2026
 - https://github.com/skills/hello-github-actions?utm_source=blog-episode-2&utm_medium=blog&utm_campaign=gfb-s3-2026
+
+
+# Github Actions YML
+- https://docs.github.com/es/actions/reference/workflows-and-actions/workflow-syntax#name
+
+# Github Actions Documentation
+- https://docs.github.com/es/actions?utm_source=blog-episode-2&utm_medium=blog&utm_campaign=gfb-s3-2026
